@@ -1,10 +1,10 @@
-# basic options # in yml when you write something with a hashtag this is not printed; just like in R
+# basic options; in yml when you write something with a hashtag this is not printed; just like in R
 title: The-newbie-programmer
 author: A very naive programmer wannabe
 email: your-email@domain.com
 description: A lovely blog
 twitter_username: KolbergLeticia
-github_username:  leskolberg
+github_username: leskolberg
 
 # Build settings
 markdown: kramdown
